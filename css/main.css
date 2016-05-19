@@ -1,0 +1,13 @@
+.backgr{
+	border: 1px solid black;
+    height: 30vh;
+    border-radius: 25px;
+}
+input{
+	width: 23em;
+    margin-bottom: 10px !important;
+}
+img{
+	width: 60%;
+    margin: 5% 10%;
+}
